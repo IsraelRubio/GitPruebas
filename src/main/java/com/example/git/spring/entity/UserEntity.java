@@ -13,4 +13,6 @@ public class UserEntity {
 	private void pintNameANDEDAD() {
 		System.out.println(this.name+ " " +this.edad);
 	}
+	
+	private int nuevocambio;
 }
