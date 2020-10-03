@@ -7,6 +7,8 @@ public class UserEntity {
 	//Cambio que si quiero subir
 	private int edad;
 	
+	private String cambio_rama_2;
+	
 	//cambio en el que estoy trabajando
 	private void pintNameANDEDAD() {
 		System.out.println(this.name+ " " +this.edad);

@@ -4,5 +4,5 @@ package com.example.git.spring.entity;
 public class ClothesEntity {
 
 	private String value;
-	private int date;	
+	private int date;
 }
