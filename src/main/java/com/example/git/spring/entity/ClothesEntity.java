@@ -5,4 +5,6 @@ public class ClothesEntity {
 
 	private String value;
 	private int date;
+	
+	private String rama_2;
 }
