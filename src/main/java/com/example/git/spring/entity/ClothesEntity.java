@@ -5,8 +5,4 @@ public class ClothesEntity {
 
 	private String value;
 	private int date;
-	
-	public void metodobasico() {
-		System.out.println("Hola metodo basico");
-	}
 }
