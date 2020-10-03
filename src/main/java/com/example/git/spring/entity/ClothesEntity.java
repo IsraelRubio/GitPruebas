@@ -7,4 +7,7 @@ public class ClothesEntity {
 	private int date;
 	
 	private String rama_1;
+	
+	
+	private String rama_2;
 }
