@@ -6,4 +6,9 @@ public class UserEntity {
 	
 	//Cambio que si quiero subir
 	private int edad;
+	
+	//cambio en el que estoy trabajando
+	private void pintNameANDEDAD() {
+		System.out.println(this.name+ " " +this.edad);
+	}
 }
