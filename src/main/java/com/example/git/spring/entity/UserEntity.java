@@ -4,4 +4,6 @@ public class UserEntity {
 	
 	private String name;
 	
+	//Cambio que si quiero subir
+	private int edad;
 }
