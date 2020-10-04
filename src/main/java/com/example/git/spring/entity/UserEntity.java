@@ -15,4 +15,5 @@ public class UserEntity {
 	}
 	
 	private int nuevocambio;
+	private int cambio_feature1;
 }
