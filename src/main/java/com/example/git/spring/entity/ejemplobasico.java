@@ -6,4 +6,5 @@ public class ejemplobasico {
 	private int cambio_gitBajado;
 	private int cambio_desdeGit;
 	private int cambio_paraGitConflicto_abajo;
+	private int cambio_paraConflictoPull_desdeGit;
 }
