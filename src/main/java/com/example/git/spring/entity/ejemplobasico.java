@@ -5,5 +5,5 @@ public class ejemplobasico {
 	private String cambio_gitRemoto;
 	private int cambio_gitBajado;
 	private int cambio_desdeGit;
-	
+	private int cambio_paraGitConflicto_abajo;
 }
